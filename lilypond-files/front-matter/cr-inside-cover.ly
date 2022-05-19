@@ -6,6 +6,8 @@ cover =  \markuplist {
         \center-column {
             \vspace #10
             \line { \hbracket \fontsize #10 \number 2019 }
+            \vspace #0.5
+            \line  { \fontsize #1 "revised" \number 2022 }
             \vspace #4
             \line { \xcomp  }
             \vspace #1

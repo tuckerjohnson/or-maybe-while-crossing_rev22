@@ -3,7 +3,7 @@
 front-matter = \markuplist {
  \fill-line {
    \left-column {
-     \line { \bold \xtitle " [2019]" }
+     \line { \bold \xtitle " [2019, revised 2022]" }
      \line { \xinst " | " \xdur }
      \line { \xcomp }
      \vspace #25
